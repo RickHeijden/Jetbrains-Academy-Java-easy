@@ -22,3 +22,7 @@ Added: 10-06-2021<br/>
 Last updated: 10-06-2021.
 
 ### Goal
+This goal for this project is to create a simple text based application that helps a cinema. With this program it is 
+possible to first enter the amount of rows and how many seats a row at. From this starting point it is possible to 
+either buy a ticket, see the available seats or the sale statistics. When you exit the application it will no longer 
+hold the data entered before.
