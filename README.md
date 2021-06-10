@@ -5,7 +5,7 @@ Current amount of projects: 2. <br/>
 Last updated: 10-06-2021
 
 ## Simple-Tic-Tac-Toe
-My solution can be found in [this folder](projects/Simple Tic-Tac-Toe/src/main/java/tictactoe). For those with 
+My solution can be found in [this folder](projects/Simple%20Tic-Tac-Toe/src/main/java/tictactoe). For those with 
 jetbrains academy, the project itself can be found [here](https://hyperskill.org/projects/48?track=1). <br/>
 Added: 05-06-2021<br/>
 Last updated: 09-06-2021.
